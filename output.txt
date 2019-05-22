@@ -1,0 +1,5 @@
+var VARnumber [Line 1, BeginIndex:1, EndIndex:3]
+x IDENTIFIERnumber [Line 1, BeginIndex:5, EndIndex:5]
+, COMMMAnumber [Line 1, BeginIndex:6, EndIndex:6]
+y IDENTIFIERnumber [Line 1, BeginIndex:8, EndIndex:8]
+; SEMInumber [Line 1, BeginIndex:9, EndIndex:9]
